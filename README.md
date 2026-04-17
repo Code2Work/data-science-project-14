@@ -1,4 +1,4 @@
-# Data Science SQL Project 14
+# Data Science Python Project 14
 
 ### Proje Kurulumu
 Projeyi öncelikle forklayın ve clone edin.
